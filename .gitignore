@@ -1,0 +1,75 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments & package caches
+jobpilot-agent/frontend/.venv/
+.pytest_cache/
+.coverage
+htmlcov/
+node_modules/
+
+# Secrets, tokens, keys & credentials
+*.pem
+*.key
+*.p12
+*.crt
+*service_account*.json
+*credentials*.json
+*.env
+*.env.*
+*.secret
+id_rsa
+id_ecdsa
+id_ed25519
+
+# Recordings
+*.webm
+*.mp4
+*.mkv
+
+# Ephemeral IDE, OS & lab logs
+.DS_Store
+Thumbs.db
+*.log
+.system_generated/
+nohup.out
+scratch/
+
+# --- added by publish-to-github skill ---
+.venv/
+venv/
+__pycache__/
+*.pyc
+node_modules/
+.video_tmp/
+.DS_Store
+.env
+*.env
+application_default_credentials.json
+*-sa-key.json
+service-account*.json
+# Keep the demo GIF (README embeds it); ignore the large raw recording.
+*.webm

@@ -1,0 +1,386 @@
+{
+  "profile": {
+    "name": "Abhinav Srivastava",
+    "summary": "Backend/Full-Stack Software Engineer with ~2.5 years of experience building scalable backend services and web applications with .NET, C#, and SQL.",
+    "yearsOfExperience": 2.5,
+    "originalResumeText": "Abhinav Srivastava\nEmail: abhinav.srivastava@example.com | Location: Bengaluru / Hyderabad, India\nBackend & Full-Stack Developer (~2.5 Years Experience)\n\nSUMMARY\nBackend / Full-Stack Engineer with ~2.5 years of experience developing robust microservices and web APIs using C#, ASP.NET Web API, .NET 8, SQL, and modern frontend technologies like Angular.\n\nEXPERIENCE\nSoftware Engineer - Full Stack & Backend (2023 - Present)\n- Designed and built scalable RESTful APIs using ASP.NET Web API and .NET 8.\n- Optimized relational SQL queries and stored procedures, reducing execution latency on core reporting endpoints.\n- Integrated Angular frontend components with backend endpoints, ensuring secure token authentication.\n- Implemented unit testing and integration tests with xUnit.\n\nEDUCATION\nBachelor of Technology in Computer Science & Engineering (2018 - 2022)\n\nCONFIRMED TECHNICAL SKILLS\nC#, ASP.NET Web API, .NET 8, SQL, Angular, REST APIs, Git, xUnit",
+    "originalResumeUploadDate": "2026-10-13T06:21:01.710Z",
+    "version": 1,
+    "verifiedSkills": [
+      "C#",
+      "ASP.NET Web API",
+      ".NET 8",
+      "SQL",
+      "Angular",
+      "RESTful APIs",
+      "Git",
+      "xUnit"
+    ],
+    "learningSkills": [
+      "Kubernetes / Platform Engineering",
+      "Application Security / OWASP",
+      "Kafka"
+    ],
+    "experience": [
+      {
+        "id": "exp-1",
+        "company": "Enterprise Technology Solutions",
+        "title": "Software Engineer - Backend / Full-Stack",
+        "location": "Bengaluru, India",
+        "startDate": "2023-08",
+        "endDate": "Present",
+        "current": true,
+        "bullets": [
+          "Architected and deployed high-throughput ASP.NET Web API and .NET 8 microservices handling business logic and reporting.",
+          "Engineered relational database schemas in SQL Server/PostgreSQL, optimizing query plans and indexes for sub-100ms response times.",
+          "Collaborated with frontend team to implement Angular responsive UI modules communicating with backend REST endpoints.",
+          "Authored automated unit and integration tests using xUnit, maintaining test coverage on critical payment and order flows."
+        ],
+        "confirmed": true
+      }
+    ],
+    "projects": [
+      {
+        "id": "proj-1",
+        "name": "High-Performance Order Processing API",
+        "description": "Asynchronous order processing pipeline built with .NET 8 and SQL database.",
+        "technologies": [
+          "C#",
+          ".NET 8",
+          "SQL",
+          "REST API"
+        ],
+        "bullets": [
+          "Implemented transactional outbox pattern to guarantee consistency in SQL operations.",
+          "Created OpenAPI/Swagger specifications and comprehensive API documentation."
+        ],
+        "confirmed": true
+      }
+    ],
+    "education": [
+      {
+        "id": "edu-1",
+        "institution": "State Technological University",
+        "degree": "B.Tech in Computer Science and Engineering",
+        "year": "2022",
+        "confirmed": true
+      }
+    ],
+    "achievements": [
+      {
+        "id": "ach-1",
+        "description": "Delivered backend latency optimization improving dashboard load time by 35%",
+        "metric": "35% faster dashboard query times",
+        "confirmed": true
+      }
+    ],
+    "preferences": {
+      "desiredRoles": [
+        "Backend Software Engineer",
+        "Full-Stack Engineer"
+      ],
+      "secondaryTracks": [
+        "SRE/Platform",
+        "Security/Vulnerability Management"
+      ],
+      "preferredLocations": [
+        "Hyderabad",
+        "Bengaluru",
+        "Remote (India-eligible)"
+      ],
+      "preferredCompensation": "₹12 LPA or higher",
+      "targetExperienceYears": "2–4 years",
+      "companyTypes": [
+        "Product companies",
+        "GCCs"
+      ],
+      "workAuthorization": "India (Citizen / Eligible to work without sponsorship)",
+      "noticePeriod": "60 Days (Negotiable)"
+    },
+    "updatedAt": "2026-10-13T06:21:01.710Z"
+  },
+  "jobs": [
+    {
+      "id": "demo-job-1",
+      "source": "demo",
+      "sourceId": "demo-net-1",
+      "company": "Acme Cloud Platform (Demo GCC)",
+      "title": "Backend Engineer (.NET / C#)",
+      "location": "Bengaluru, Karnataka, India",
+      "remoteEligibility": "Hybrid",
+      "experienceRequirements": "2-4 years experience",
+      "salary": "Not disclosed",
+      "jobDescription": "About Us:\nAcme Cloud Platform is a global enterprise GCC located in Bengaluru, building next-generation infrastructure management tools.\n\nResponsibilities:\n- Build, optimize, and maintain backend REST APIs using .NET 8 and C#.\n- Work with relational SQL databases to design performant data models and complex queries.\n- Collaborate with frontend teams (Angular/React) to deliver seamless end-to-end features.\n- Participate in code reviews, CI/CD pipeline deployments, and security compliance audits.\n\nRequirements:\n- 2+ years of professional backend engineering experience with C# and .NET Core / .NET 8.\n- Strong knowledge of SQL, relational databases, transactions, and indexing.\n- Solid understanding of RESTful API design and API security best practices.\n- Experience writing automated unit and integration tests (xUnit/NUnit).\n- Nice to have: Familiarity with Angular, Docker containers, or cloud platforms (GCP/Azure).",
+      "originalApplicationUrl": "https://example.com/demo/acme-backend-net",
+      "retrievedAt": "2026-10-13T06:21:01.710Z",
+      "postedAt": "2026-10-10",
+      "isDemo": true,
+      "department": "Engineering"
+    },
+    {
+      "id": "demo-job-2",
+      "source": "demo",
+      "sourceId": "demo-fs-2",
+      "company": "FinTech Orbit Global (Demo Product Co)",
+      "title": "Full-Stack Software Engineer (C# / Angular)",
+      "location": "Hyderabad, Telangana, India",
+      "remoteEligibility": "Hybrid",
+      "experienceRequirements": "2-5 years experience",
+      "salary": "₹14 LPA - ₹18 LPA",
+      "jobDescription": "Overview:\nFinTech Orbit Global is a leading product company powering real-time payment reconciliation for global institutions.\n\nKey Responsibilities:\n- Design and develop customer-facing web applications using Angular (TypeScript) and ASP.NET Web API (.NET 8).\n- Write high-performance SQL queries and stored procedures to handle financial ledger balances.\n- Ensure test automation, defensive coding, and vulnerability remediation across the stack.\n\nQualifications:\n- Bachelor's degree in Computer Science or equivalent.\n- 2-4 years of experience with C#, ASP.NET Web API, and SQL Server.\n- Hands-on experience with modern Angular frameworks.\n- Strong problem-solving abilities and communication skills.",
+      "originalApplicationUrl": "https://example.com/demo/fintech-orbit-fullstack",
+      "retrievedAt": "2026-10-13T06:21:01.710Z",
+      "postedAt": "2026-10-11",
+      "isDemo": true,
+      "department": "Payments Engineering"
+    },
+    {
+      "id": "demo-job-3",
+      "source": "demo",
+      "sourceId": "demo-us-remote-3",
+      "company": "Apex Global Dynamics (Demo US Remote)",
+      "title": "Senior Backend Developer",
+      "location": "Remote - US & Canada Only",
+      "remoteEligibility": "Remote",
+      "experienceRequirements": "5+ years experience",
+      "salary": "$140,000 - $160,000 USD",
+      "jobDescription": "We are looking for a Senior Backend Developer. Note: This position is strictly open to US/Canada residents with valid US work authorization. Applicants outside the Americas will not be considered.\nRequirements:\n- 5+ years building distributed Go or .NET backend systems.\n- Kubernetes, AWS, microservices architecture.",
+      "originalApplicationUrl": "https://example.com/demo/apex-senior-remote",
+      "retrievedAt": "2026-10-13T06:21:01.710Z",
+      "postedAt": "2026-10-08",
+      "isDemo": true,
+      "department": "Core Systems"
+    }
+  ],
+  "analyses": [
+    {
+      "id": "fit-demo-job-1-1-c5eee98679130e44",
+      "jobId": "demo-job-1",
+      "profileVersion": 1,
+      "jdHash": "c5eee98679130e44",
+      "analyzedAt": "2026-10-13T06:21:22.855Z",
+      "heuristicScore": 100,
+      "scoreExplanation": {
+        "skillsScore": 35,
+        "experienceScore": 25,
+        "locationScore": 25,
+        "roleScore": 15,
+        "details": "Breakdown: Skills match (35/35) + Experience tier (25/25) + Location/Work Auth (25/25) + Role alignment (15/15) = 100/100 Heuristic fit score."
+      },
+      "matchedRequirements": [
+        "C#",
+        ".NET 8",
+        "SQL",
+        "Angular",
+        "xUnit"
+      ],
+      "missingRequirements": [
+        "Docker",
+        "Azure",
+        "GCP",
+        "React",
+        "CI/CD"
+      ],
+      "unknowns": [
+        "Salary range not disclosed by employer"
+      ],
+      "essentialRequirements": [
+        "C# / .NET backend development",
+        "Relational database design & SQL queries",
+        "REST API design & integration",
+        "Frontend development (Angular/TypeScript)"
+      ],
+      "niceToHaves": [
+        "Containerization & Cloud deployment"
+      ],
+      "constraints": {
+        "locationMatch": true,
+        "locationNote": "Location matches candidate preference (Bengaluru, Karnataka, India).",
+        "workAuthMatch": true,
+        "workAuthNote": "Indian citizen / eligible to work without visa sponsorship.",
+        "experienceMatch": true,
+        "experienceNote": "Experience requirement aligns with candidate's ~2.5 years experience."
+      },
+      "summaryReasoning": "Heuristic fit score of 100/100 based on 5 matched verified skills (C#, .NET 8, SQL, Angular, xUnit), experience level fit (Experience requirement aligns with candidate's ~2.5 years experience.), and location compatibility (Location matches candidate preference (Bengaluru, Karnataka, India).)."
+    }
+  ],
+  "tailoredResumes": [
+    {
+      "id": "tailored-demo-job-1-1791872482870",
+      "jobId": "demo-job-1",
+      "profileVersion": 1,
+      "createdAt": "2026-10-13T06:21:22.870Z",
+      "updatedAt": "2026-10-13T06:21:22.870Z",
+      "approvedByCandidate": false,
+      "targetedJobTitle": "Backend Engineer (.NET / C#)",
+      "targetedCompany": "Acme Cloud Platform (Demo GCC)",
+      "tailoredSummary": "Results-oriented Software Engineer with ~2.5 years of experience specializing in robust backend services with C#, ASP.NET Web API, .NET 8, and relational SQL databases. Proven track record of designing high-throughput RESTful endpoints and integrating responsive Angular components for enterprise web applications at Acme Cloud Platform (Demo GCC).",
+      "originalSummary": "Backend/Full-Stack Software Engineer with ~2.5 years of experience building scalable backend services and web applications with .NET, C#, and SQL.",
+      "summaryChangeReason": "Rephrased professional summary to highlight candidate's verified C#/.NET 8 and SQL backend strengths in the context of the Backend Engineer (.NET / C#) role at Acme Cloud Platform (Demo GCC), without fabricating unverified domains.",
+      "keywords": [
+        {
+          "keyword": "C#",
+          "category": "supported",
+          "supportingFact": "Confirmed in profile skills and verified work experience bullets.",
+          "explanation": "Directly supported by verified candidate background."
+        },
+        {
+          "keyword": ".NET 8",
+          "category": "supported",
+          "supportingFact": "Confirmed in profile skills and verified work experience bullets.",
+          "explanation": "Directly supported by verified candidate background."
+        },
+        {
+          "keyword": "SQL",
+          "category": "supported",
+          "supportingFact": "Confirmed in profile skills and verified work experience bullets.",
+          "explanation": "Directly supported by verified candidate background."
+        },
+        {
+          "keyword": "Angular",
+          "category": "supported",
+          "supportingFact": "Confirmed in profile skills and verified work experience bullets.",
+          "explanation": "Directly supported by verified candidate background."
+        },
+        {
+          "keyword": "REST APIs",
+          "category": "missing",
+          "explanation": "Not present in verified candidate profile. MUST NOT be added to resume to preserve truthfulness."
+        },
+        {
+          "keyword": "xUnit",
+          "category": "supported",
+          "supportingFact": "Confirmed in profile skills and verified work experience bullets.",
+          "explanation": "Directly supported by verified candidate background."
+        },
+        {
+          "keyword": "Docker",
+          "category": "missing",
+          "explanation": "Not present in verified candidate profile. MUST NOT be added to resume to preserve truthfulness."
+        },
+        {
+          "keyword": "Azure",
+          "category": "missing",
+          "explanation": "Not present in verified candidate profile. MUST NOT be added to resume to preserve truthfulness."
+        },
+        {
+          "keyword": "CI/CD",
+          "category": "missing",
+          "explanation": "Not present in verified candidate profile. MUST NOT be added to resume to preserve truthfulness."
+        }
+      ],
+      "bulletDiffs": [
+        {
+          "id": "b-diff-1",
+          "original": "Architected and deployed high-throughput ASP.NET Web API and .NET 8 microservices handling business logic and reporting.",
+          "proposed": "Architected and maintained high-throughput ASP.NET Web API and .NET 8 microservices, ensuring reliable business logic execution and adherence to REST standards.",
+          "changeReason": "Aligned terminology with standard RESTful backend architecture while maintaining exact verified scope.",
+          "supportingFact": "Verified work experience at Enterprise Technology Solutions",
+          "approved": false
+        },
+        {
+          "id": "b-diff-2",
+          "original": "Engineered relational database schemas in SQL Server/PostgreSQL, optimizing query plans and indexes for sub-100ms response times.",
+          "proposed": "Optimized relational database schemas and indexed SQL queries to consistently achieve sub-100ms response times for critical reporting endpoints.",
+          "changeReason": "Highlighted measurable query optimization and indexing outcomes without altering verified metrics.",
+          "supportingFact": "Verified work experience: 35% performance improvement achievement",
+          "approved": false
+        }
+      ],
+      "recruiterMessage": "Hi Acme Cloud Platform (Demo GCC) Recruiting Team,\n\nI noticed the Backend Engineer (.NET / C#) opening at Acme Cloud Platform (Demo GCC) and wanted to reach out. With ~2.5 years of hands-on experience building backend APIs and services using C#, .NET 8, and SQL, my background directly aligns with the technical core of this role.\n\nI have attached my tailored resume for your review. Would love to connect if my profile meets your team's current hiring needs.\n\nBest regards,\nAbhinav Srivastava\nEmail: abhinav.srivastava@example.com",
+      "finalMarkdown": "# Abhinav Srivastava\n**Location:** Hyderabad / Bengaluru / Remote (India-eligible) | **Role:** Backend Engineer (.NET / C#)\n**Email:** abhinav.srivastava@example.com | **Notice Period:** 60 Days (Negotiable)\n\n---\n\n### PROFESSIONAL SUMMARY\nResults-oriented Software Engineer with ~2.5 years of experience specializing in robust backend services with C#, ASP.NET Web API, .NET 8, and relational SQL databases. Proven track record of designing high-throughput RESTful endpoints and integrating responsive Angular components for enterprise web applications at Acme Cloud Platform (Demo GCC).\n\n### VERIFIED TECHNICAL SKILLS\n- **Languages & Frameworks:** C#, .NET 8, ASP.NET Web API, SQL, Angular (TypeScript)\n- **Database & Architecture:** Relational DB Design, Query Optimization, RESTful APIs, Microservices\n- **Testing & Tools:** xUnit, Git, CI/CD Basics\n\n### PROFESSIONAL EXPERIENCE\n**Software Engineer - Backend / Full-Stack** | Enterprise Technology Solutions\n*2023 - Present | Bengaluru, India*\n- Architected and maintained high-throughput ASP.NET Web API and .NET 8 microservices, ensuring reliable business logic execution.\n- Optimized relational database schemas and indexed SQL queries to achieve sub-100ms response times on reporting endpoints.\n- Collaborated with frontend team to implement Angular responsive UI modules communicating with backend REST endpoints.\n- Authored automated unit and integration tests using xUnit, maintaining test coverage on critical workflows.\n\n### PROJECTS\n**High-Performance Order Processing API** (C#, .NET 8, SQL)\n- Implemented transactional outbox pattern to guarantee consistency in SQL operations.\n- Designed comprehensive OpenAPI/Swagger specifications and API documentation.\n\n### EDUCATION\n**B.Tech in Computer Science and Engineering** | State Technological University (2022)\n"
+    }
+  ],
+  "applications": [
+    {
+      "id": "app-1791872482880",
+      "jobId": "demo-job-1",
+      "status": "Preparing",
+      "userReportedStatus": false,
+      "tailoredResumeId": "tailored-demo-job-1-1791872482870",
+      "appliedUrl": "https://example.com/demo/acme-backend-net",
+      "notes": "Application initialized. Ready for review.",
+      "suggestedAnswers": [
+        {
+          "question": "Full Name",
+          "answer": "Abhinav Srivastava",
+          "isConfirmed": true,
+          "needsCandidateInput": false
+        },
+        {
+          "question": "Primary Work Location Preference",
+          "answer": "Hyderabad, Bengaluru, Remote (India-eligible)",
+          "isConfirmed": true,
+          "needsCandidateInput": false
+        },
+        {
+          "question": "Work Authorization / Visa Status",
+          "answer": "India (Citizen / Eligible to work without sponsorship)",
+          "isConfirmed": true,
+          "needsCandidateInput": false
+        },
+        {
+          "question": "Total Relevant Experience",
+          "answer": "2.5 years in Backend & Full-Stack Development",
+          "isConfirmed": true,
+          "needsCandidateInput": false
+        },
+        {
+          "question": "Primary Tech Stack",
+          "answer": "C#, ASP.NET Web API, .NET 8, SQL, Angular, RESTful APIs, Git, xUnit",
+          "isConfirmed": true,
+          "needsCandidateInput": false
+        },
+        {
+          "question": "Current Notice Period",
+          "answer": "60 Days (Negotiable)",
+          "isConfirmed": true,
+          "needsCandidateInput": false
+        },
+        {
+          "question": "Expected Compensation",
+          "answer": "₹12 LPA or higher",
+          "isConfirmed": true,
+          "needsCandidateInput": false
+        },
+        {
+          "question": "Demographic Declarations / Equal Opportunity",
+          "answer": "",
+          "isConfirmed": false,
+          "needsCandidateInput": true
+        }
+      ],
+      "createdAt": "2026-10-13T06:21:22.880Z",
+      "updatedAt": "2026-10-13T06:21:22.880Z"
+    }
+  ],
+  "boardConfigs": [
+    {
+      "id": "board-1",
+      "sourceType": "greenhouse",
+      "companyName": "GitLab",
+      "boardTokenOrSlug": "gitlab",
+      "boardUrl": "https://boards.greenhouse.io/gitlab",
+      "verified": true,
+      "active": true
+    },
+    {
+      "id": "board-2",
+      "sourceType": "greenhouse",
+      "companyName": "Elastic",
+      "boardTokenOrSlug": "elastic",
+      "boardUrl": "https://boards.greenhouse.io/elastic",
+      "verified": true,
+      "active": true
+    },
+    {
+      "id": "board-3",
+      "sourceType": "lever",
+      "companyName": "Canonical",
+      "boardTokenOrSlug": "canonical",
+      "boardUrl": "https://jobs.lever.co/canonical",
+      "verified": true,
+      "active": true
+    }
+  ]
+}
